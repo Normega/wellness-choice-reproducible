@@ -1,0 +1,6 @@
+"sample","n","wc","cn","used_for"
+"randomised and eligible",158,80,78,"CONSORT denominator"
+"began the intervention",150,77,73,"CONSORT"
+"adherent (>= 8 of 12 sessions)",125,65,60,"session-level models: within-session change, H2, study phase"
+"adherent with post-intervention survey",120,63,57,"study-level models: baseline-to-post change, baseline moderator"
+"adherent without post-intervention survey",5,2,3,"in session-level models only"

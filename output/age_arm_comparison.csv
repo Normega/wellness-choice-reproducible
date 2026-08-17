@@ -1,0 +1,4 @@
+"sample","wc_n","cn_n","wc_M","wc_SD","cn_M","cn_SD","welch_p","wilcoxon_p","oldest_pct_of_wc_variance"
+"randomised and eligible",80,78,19.96,5.62,18.73,1.16,0.0581,0.2055,65.2
+"adherent",65,60,20.2,6.19,18.63,1.02,0.0482,0.1287,65.7
+"analysed",63,57,20.25,6.28,18.63,1.05,0.0474,0.1078,65.7

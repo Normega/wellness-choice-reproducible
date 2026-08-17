@@ -1,0 +1,8 @@
+"scale","direction","M_baseline","M_post","b_time","p_time","b_timexgrp","p_timexgrp","p_time_holm"
+"WHO5","higher = better well-being",2.34,2.56,0.159,0.1741,0.136,0.421,0.8705
+"BIPS","higher = more stress",3.36,3.35,-0.021,0.777,0.021,0.8452,1
+"PHQ","higher = more anxiety/depression",1.37,1.46,0.155,0.0593,-0.12,0.3123,0.3558
+"Pos","higher = more positive affect",3.78,3.86,0.034,0.6965,0.094,0.4589,1
+"Neg","higher = more negative affect",3.02,2.98,0.104,0.3036,-0.292,0.0483,1
+"Belong","higher = more belonging",4.06,4.11,-0.016,0.8909,0.145,0.3902,1
+"WB","higher = better well-being",-0.03,0.03,-0.026,0.7983,0.184,0.2124,NA

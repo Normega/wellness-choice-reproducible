@@ -1,0 +1,13 @@
+"model","term","b","ci_lo","ci_hi","p"
+"Stress","(Intercept)",3.172,3.022,3.321,0
+"Stress","StudyPhaseFixedVsChoice",-0.174,-0.333,-0.016,0.0316
+"Stress","StudyPhaseJournalVsMindBody",-0.037,-0.202,0.129,0.6638
+"Stress","StudyPhaseBreathVsMindfulness",0.124,-0.07,0.317,0.2116
+"Arousal","(Intercept)",3.775,3.589,3.962,0
+"Arousal","StudyPhaseFixedVsChoice",-0.019,-0.215,0.176,0.8475
+"Arousal","StudyPhaseJournalVsMindBody",0.113,-0.092,0.317,0.2809
+"Arousal","StudyPhaseBreathVsMindfulness",0.059,-0.181,0.298,0.6309
+"Valence","(Intercept)",3.929,3.766,4.091,0
+"Valence","StudyPhaseFixedVsChoice",0.292,0.128,0.456,5e-04
+"Valence","StudyPhaseJournalVsMindBody",0.148,-0.024,0.32,0.092
+"Valence","StudyPhaseBreathVsMindfulness",-0.088,-0.289,0.112,0.3883

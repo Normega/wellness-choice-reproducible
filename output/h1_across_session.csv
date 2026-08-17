@@ -1,0 +1,13 @@
+"model","term","b","ci_lo","ci_hi","p"
+"Stress","StudyDay",-0.006,-0.014,0.002,0.1584
+"Stress","StudyDay:ConditionNature",0.005,-0.007,0.016,0.4475
+"Stress","StudyDay:SesTimePost",0.012,0.001,0.023,0.0375
+"Stress","StudyDay:ConditionNature:SesTimePost",-0.01,-0.026,0.007,0.2409
+"Arousal","StudyDay",0.001,-0.009,0.011,0.8222
+"Arousal","StudyDay:ConditionNature",0.013,-0.002,0.028,0.0899
+"Arousal","StudyDay:SesTimePost",0.003,-0.011,0.018,0.6574
+"Arousal","StudyDay:ConditionNature:SesTimePost",-0.006,-0.027,0.015,0.5886
+"Valence","StudyDay",0.014,0.006,0.022,9e-04
+"Valence","StudyDay:ConditionNature",-0.004,-0.016,0.008,0.4874
+"Valence","StudyDay:SesTimePost",-0.002,-0.014,0.009,0.6809
+"Valence","StudyDay:ConditionNature:SesTimePost",0.001,-0.016,0.018,0.93

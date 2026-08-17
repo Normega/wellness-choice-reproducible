@@ -1,0 +1,4 @@
+"model","wc_per_day","wc_over_28d","cn_per_day","cn_over_28d","interaction_b","interaction_p"
+"Stress",-0.0059,-0.166,-0.0014,-0.039,0.0045,0.4931
+"Arousal",8e-04,0.024,0.0151,0.423,0.0143,0.076
+"Valence",0.0139,0.39,0.0104,0.292,-0.0035,0.5951

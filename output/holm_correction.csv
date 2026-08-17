@@ -1,0 +1,9 @@
+"family","hypothesis","outcome","rank","p","threshold","p_holm","significant"
+"preregistered (2 tests)","H1 (condition x session time)","Arousal",1,0.0266,0.025,0.0532,FALSE
+"preregistered (2 tests)","H2 (preference x session time)","Arousal",2,0.0579,0.05,0.0579,FALSE
+"all outcomes (6 tests)","H1 (condition x session time)","Arousal",1,0.0266,0.0083,0.1596,FALSE
+"all outcomes (6 tests)","H2 (preference x session time)","Arousal",2,0.0579,0.01,0.2895,FALSE
+"all outcomes (6 tests)","H2 (preference x session time)","Stress",3,0.2753,0.0125,1,FALSE
+"all outcomes (6 tests)","H1 (condition x session time)","Valence",4,0.6946,0.0167,1,FALSE
+"all outcomes (6 tests)","H1 (condition x session time)","Stress",5,0.695,0.025,1,FALSE
+"all outcomes (6 tests)","H2 (preference x session time)","Valence",6,0.7848,0.05,1,FALSE

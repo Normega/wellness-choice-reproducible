@@ -1,0 +1,7 @@
+"set","model","pub_b","b","pub_p","p","flag","survives_correction"
+"absolute","Arousal",0.11,0.112,0.042,0.0579,"*** SIGNIFICANCE CHANGED ***",FALSE
+"absolute","Stress",-0.04,-0.05,0.31,0.2753,"consistent",FALSE
+"absolute","Valence",0.02,0.013,0.671,0.7848,"consistent",FALSE
+"relative","Arousal",0.09,0.094,0.097,0.1079,"consistent",FALSE
+"relative","Stress",-0.04,-0.041,0.356,0.3653,"consistent",FALSE
+"relative","Valence",0.03,0.026,0.521,0.5859,"consistent",FALSE

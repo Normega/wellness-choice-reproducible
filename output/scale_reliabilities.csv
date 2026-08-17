@@ -1,0 +1,33 @@
+"wave","sample","n","scale","alpha"
+"baseline","all eligible",158,"BIPS",0.869
+"baseline","all eligible",158,"WHO5",0.821
+"baseline","all eligible",158,"Pos",0.716
+"baseline","all eligible",158,"Neg",0.809
+"baseline","all eligible",158,"PHQ",0.87
+"baseline","all eligible",158,"Belong",0.744
+"baseline","all eligible",158,"MindfulPref",0.793
+"baseline","all eligible",158,"BreathPref",0.805
+"baseline","all eligible",158,"JournallingPref",0.835
+"baseline","all eligible",158,"NaturePref",0.774
+"post","all with post survey",134,"BIPS",0.841
+"post","all with post survey",134,"WHO5",0.806
+"post","all with post survey",134,"Pos",0.814
+"post","all with post survey",134,"Neg",0.781
+"post","all with post survey",134,"PHQ",0.827
+"post","all with post survey",134,"Belong",0.822
+"baseline","analysed",120,"BIPS",0.872
+"baseline","analysed",120,"WHO5",0.821
+"baseline","analysed",120,"Pos",0.714
+"baseline","analysed",120,"Neg",0.807
+"baseline","analysed",120,"PHQ",0.865
+"baseline","analysed",120,"Belong",0.743
+"baseline","analysed",120,"MindfulPref",0.762
+"baseline","analysed",120,"BreathPref",0.779
+"baseline","analysed",120,"JournallingPref",0.854
+"baseline","analysed",120,"NaturePref",0.781
+"post","analysed",120,"BIPS",0.84
+"post","analysed",120,"WHO5",0.806
+"post","analysed",120,"Pos",0.818
+"post","analysed",120,"Neg",0.793
+"post","analysed",120,"PHQ",0.822
+"post","analysed",120,"Belong",0.821

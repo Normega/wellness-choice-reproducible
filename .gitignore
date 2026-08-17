@@ -1,0 +1,23 @@
+# Never publishable -----------------------------------------------------------
+# Identifiable data and the re-identification key. See private/README.md.
+private/
+RawData/
+
+# Not part of the reproduction package -----------------------------------------
+# One-off scripts that edited the manuscript .docx files. They reproduce no
+# analysis, and they carry author names and absolute local paths.
+*.py
+__pycache__/
+*.pyc
+
+# Internal self-critique, written to stress-test the paper before submission.
+# Not for a reviewer-facing repository.
+PEER_REVIEW.md
+
+# Local clutter ----------------------------------------------------------------
+desktop.ini
+*.Rhistory
+.Rhistory
+.Rproj.user/
+.RData
+~$*

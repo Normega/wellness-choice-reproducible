@@ -1,0 +1,4 @@
+"Condition","n","age_M","age_SD","age_median","age_q1","age_q3","age_min","age_max","woman_n","woman_pc"
+"Choice",63,20.25,6.28,19,18,19,18,60,52,82.5
+"Nature",57,18.63,1.05,18,18,19,18,24,48,84.2
+"Overall",120,19.48,4.66,18,18,19,18,60,100,83.3

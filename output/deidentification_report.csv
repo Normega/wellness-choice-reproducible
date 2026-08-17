@@ -1,0 +1,12 @@
+"stage","wave","detail","n"
+"staff removal","baseline","rows matching private/experimenter_emails.txt",6
+"staff removal","booster","rows matching private/experimenter_emails.txt",17
+"staff removal","post","rows matching private/experimenter_emails.txt",1
+"id mapping","all","participants assigned arbitrary study ids",165
+"columns dropped","baseline","IPAddress; RecipientLastName; RecipientFirstName; RecipientEmail; ExternalReference; LocationLatitude; LocationLongitude; Email1; Email2; Emails; ResponseId; EndDate; RecordedDate; BaselineDate; DistributionChannel; UserLanguage",16
+"columns redacted","baseline","RatingReason; ExpectStressReduction; ExpectWellbeing; Gender_Other_Content; Other_Text; ParentEduOther_Text; FirstGenOther_Text; ProgramOther_Text; ContemplativeOtherText; JournallingOtherText; BreathOtherText; Languages",12
+"columns dropped","booster","IPAddress; RecipientLastName; RecipientFirstName; RecipientEmail; ExternalReference; LocationLatitude; LocationLongitude; Emails; ResponseId; EndDate; RecordedDate; BaselineDate; CurrentDate; SumScore; DistributionChannel; UserLanguage",16
+"columns redacted","booster","PreRatingOpen; journalprompt1; journalprompt2; journalprompt3; OpenWhyTechnique; CheckWhyOpen; OpenHowModify; ChallengeOtherText",8
+"columns dropped","post","IPAddress; RecipientLastName; RecipientFirstName; RecipientEmail; ExternalReference; LocationLatitude; LocationLongitude; Emails; ResponseId; EndDate; RecordedDate; DistributionChannel; UserLanguage",13
+"columns redacted","post","RatingReason; ExpectStressReduction; ExpectWellbeing",3
+"id mapping","all","dual-enrolment ids remapped for release",4

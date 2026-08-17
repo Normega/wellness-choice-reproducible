@@ -1,0 +1,4 @@
+"model","b_per_day","ci_lo","ci_hi","p","change_over_28d","p_condition_interaction"
+"Stress",-0.0038,-0.0103,0.0026,0.244,-0.107,0.4931
+"Arousal",0.0075,-3e-04,0.0154,0.0609,0.211,0.076
+"Valence",0.0123,0.0058,0.0188,2e-04,0.344,0.5951

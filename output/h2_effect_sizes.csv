@@ -1,0 +1,7 @@
+"outcome","predictor","std_beta","ci_lo","ci_hi","p"
+"Stress","Pref",-0.037,-0.103,0.029,0.275
+"Arousal","Pref",0.066,-0.002,0.135,0.058
+"Valence","Pref",0.009,-0.057,0.076,0.785
+"Stress","PrefRelative",-0.031,-0.097,0.036,0.365
+"Arousal","PrefRelative",0.056,-0.012,0.125,0.108
+"Valence","PrefRelative",0.018,-0.048,0.085,0.586

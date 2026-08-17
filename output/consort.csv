@@ -1,0 +1,17 @@
+"stage","step","rowsBefore","rowsAfter","rowsRemoved","idsBefore","idsAfter"
+"baseline","remove missing/invalid pid",226,224,2,,
+"baseline","remove dual-enrolled participants",224,215,9,4,0
+"baseline","remove incomplete outcome battery",215,166,49,,159
+"baseline","remove failed attention checks (<3 of 4)",166,163,3,,158
+"baseline","collapse repeat baseline submissions",163,158,5,158,158
+"baseline","remove unrandomised (no condition)",158,158,0,,158
+"post","remove missing/invalid pid",141,141,0,,
+"post","remove dual-enrolled participants",141,136,5,,
+"post","remove incomplete outcome battery",136,135,1,,
+"post","collapse duplicate post submissions",135,134,1,,
+"booster","remove missing/invalid pid",1569,1569,0,,
+"booster","remove dual-enrolled participants",1569,1515,54,,
+"booster","remove sessions not completed",1515,1443,72,,
+"booster","collapse duplicate sessions (same id x day)",1443,1440,3,,150
+"final","adherent + complete pre-post",158,120,38,,
+"baseline","enrolled (completed battery, incl. dual)",,,,,163

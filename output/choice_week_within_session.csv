@@ -1,0 +1,13 @@
+"StudyPhase","outcome","Base","Post","change","fixed_change","choice_change","pct_retained"
+"Mindfulness","Stress",3.163,2.738,-0.424,-0.387,-0.163,42.2
+"Mindfulness","Arousal",3.709,3.988,0.279,0.208,0.355,170.4
+"Mindfulness","Valence",3.849,4.18,0.331,0.319,0.279,87.4
+"Breath","Stress",3.287,2.799,-0.489,-0.387,-0.163,42.2
+"Breath","Arousal",3.793,3.966,0.172,0.208,0.355,170.4
+"Breath","Valence",3.776,4.161,0.385,0.319,0.279,87.4
+"Journal","Stress",3.202,2.955,-0.247,-0.387,-0.163,42.2
+"Journal","Arousal",3.865,4.039,0.174,0.208,0.355,170.4
+"Journal","Valence",3.961,4.202,0.242,0.319,0.279,87.4
+"Choice","Stress",3.041,2.878,-0.163,-0.387,-0.163,42.2
+"Choice","Arousal",3.756,4.11,0.355,0.208,0.355,170.4
+"Choice","Valence",4.14,4.419,0.279,0.319,0.279,87.4

@@ -1,0 +1,13 @@
+"model","term","b","ci_lo","ci_hi","p"
+"Time x baseline WB","(Intercept)",0,-0.091,0.091,1
+"Time x baseline WB","TimePost",0.051,-0.079,0.18,0.4432
+"Time x baseline WB","baseWB",1,0.91,1.09,0
+"Time x baseline WB","TimePost:baseWB",-0.352,-0.479,-0.225,0
+"Time x condition x baseline WB","(Intercept)",0,-0.126,0.126,1
+"Time x condition x baseline WB","TimePost",-0.034,-0.212,0.144,0.71
+"Time x condition x baseline WB","groupNature",0,-0.183,0.183,1
+"Time x condition x baseline WB","baseWB",1,0.877,1.123,0
+"Time x condition x baseline WB","TimePost:groupNature",0.177,-0.081,0.436,0.18
+"Time x condition x baseline WB","TimePost:baseWB",-0.312,-0.485,-0.138,5e-04
+"Time x condition x baseline WB","groupNature:baseWB",0,-0.179,0.179,1
+"Time x condition x baseline WB","TimePost:groupNature:baseWB",-0.085,-0.338,0.169,0.5136
